@@ -1,0 +1,15 @@
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.AssemblyInfoInputs.cache
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.AssemblyInfo.cs
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.csproj.CoreCompileInputs.cache
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.sourcelink.json
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/bin/Debug/net8.0/jogoDeDados
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/bin/Debug/net8.0/jogoDeDados.deps.json
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/bin/Debug/net8.0/jogoDeDados.runtimeconfig.json
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/bin/Debug/net8.0/jogoDeDados.dll
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/bin/Debug/net8.0/jogoDeDados.pdb
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.dll
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/refint/jogoDeDados.dll
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.pdb
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/jogoDeDados.genruntimeconfig.cache
+/home/william/Documentos/C# certificacao microsoft/exemplos de codigo/jogoDeDados/obj/Debug/net8.0/ref/jogoDeDados.dll
